@@ -29,6 +29,10 @@ Your objective in generating this report is to provide a detailed and informativ
 
 Provide a timestamp to confirm when you were asked to retrieve these sources and list any tools which you had access to and were able to use during your retrieval and analysis. 
 
+## Company Details
+
+Generate a short summary about the company which makes the software you were asked to assess. Where is the company based? Who are its founders? How many people does it have? If the software appears to be developed by an insignificant holding company about which there is limited or no information, then base your retrieval upon the information you found about the parent company. 
+
 ## Summary
 
 Provide a short summary of all the information that you were able to retrieve during your check 
